@@ -5,7 +5,7 @@ plot3(time_series_reconstructed(:,1), time_series_reconstructed(:,2), time_serie
 xlabel('Dimension 1');
 ylabel('Dimension 2');
 zlabel('Dimension 3');
-title('Time Delay Embedding of Lorenz System');
-subtitle(sprintf("From theta, Estimated delay = %d, Estimated embedding dimension = %d",eLag,eDim));
+title('Time Delay Embedding');
+subtitle(sprintf("Estimated delay = %d, Estimated embedding dimension = %d",eLag,eDim));
 
 end

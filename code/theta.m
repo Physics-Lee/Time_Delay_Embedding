@@ -1,4 +1,5 @@
 clc; clear; close all;
+my_add_path();
 
 % load
 time_series = load_data_from_mat('..\data\theta\theta.mat');

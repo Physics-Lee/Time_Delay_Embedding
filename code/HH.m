@@ -1,4 +1,5 @@
 clc; clear; close all;
+my_add_path();
 
 % Load Data
 time_series = load_data_from_mat('..\data\HH\HH_model.mat');

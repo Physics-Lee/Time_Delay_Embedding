@@ -1,4 +1,5 @@
 clc; clear; close all;
+my_add_path();
 
 %% simulate
 n_circle = 100;

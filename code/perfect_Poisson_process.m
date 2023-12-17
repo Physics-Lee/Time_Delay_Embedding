@@ -1,4 +1,5 @@
 clc; clear; close all;
+my_add_path();
 
 %% simulate
 r_ideal = load_data_from_mat('..\data\perfect_Poisson_process\r_ideal.mat');

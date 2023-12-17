@@ -13,3 +13,23 @@ For example, below are all stochastic process, which this method succeeds in.
 * $\theta$
 * perfect Poisson process
 * White Noise Process
+
+
+
+# Result
+
+Original Lorenz
+
+<img src="README.assets/1.png" alt="1" style="zoom:50%;" />
+
+Reconstructed Lorenz
+
+![image-20231217163211312](README.assets/image-20231217163211312.png)
+
+Original HH
+
+<img src="README.assets/original.png" alt="original" style="zoom:50%;" />
+
+Reconstructed HH
+
+<img src="README.assets/image-20231217163451484.png" alt="image-20231217163451484" style="zoom:50%;" />

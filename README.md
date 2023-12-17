@@ -1,6 +1,6 @@
 # Tutorial
 
-Just move to some `script.m` and hit run.
+Just move to some `script.m` and hit `run`.
 
 
 
@@ -28,13 +28,13 @@ Reconstructed HH
 
 The time delay embedding is suitable for deterministic process, not stochastic process.
 
-For example, below are all deterministic process, which this method fails on.
+For example, below are all deterministic process, which this method succeeds in.
 
 * Lorenz
 * HH
 * perfect circle
 
-For example, below are all stochastic process, which this method succeeds in.
+For example, below are all stochastic process, which this method fails on.
 
 * $\theta$
 * perfect Poisson process

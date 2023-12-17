@@ -1,18 +1,6 @@
 # Tutorial
 
-The time delay embedding is suitable for deterministic process, not stochastic process.
-
-For example, below are all deterministic process, which this method fails on.
-
-* Lorenz
-* HH
-* perfect circle
-
-For example, below are all stochastic process, which this method succeeds in.
-
-* $\theta$
-* perfect Poisson process
-* White Noise Process
+Just move to some `script.m` and hit run.
 
 
 
@@ -33,3 +21,21 @@ Original HH
 Reconstructed HH
 
 <img src="README.assets/image-20231217163451484.png" alt="image-20231217163451484" style="zoom:50%;" />
+
+
+
+# THINK
+
+The time delay embedding is suitable for deterministic process, not stochastic process.
+
+For example, below are all deterministic process, which this method fails on.
+
+* Lorenz
+* HH
+* perfect circle
+
+For example, below are all stochastic process, which this method succeeds in.
+
+* $\theta$
+* perfect Poisson process
+* White Noise Process
